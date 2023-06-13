@@ -8,3 +8,4 @@ direcortory is already a git directory then it will cause some problems.
 -----------------------------------------
 
 something is modifing again
+<html> this is html tag </html>
