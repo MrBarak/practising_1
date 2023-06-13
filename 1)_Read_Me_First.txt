@@ -6,3 +6,5 @@ Remeber it is recommended to check either your directory's status before making 
 direcortory is already a git directory then it will cause some problems.
 
 -----------------------------------------
+
+something is modifired
